@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641428954 source:c:\users\dadang\onedrive - pt. telekomunikasi indonesia\documents\ngoding\tugas_besar_std\main.cpp
+	<iostream>
+	"MLL_DLL.h"
+
+1641798709 c:\users\dadang\onedrive - pt. telekomunikasi indonesia\documents\ngoding\tugas_besar_std\mll_dll.h
+	<iostream>
+
+1641573928 source:c:\users\dadang\onedrive - pt. telekomunikasi indonesia\documents\ngoding\tugas_besar_std\mll_dll.cpp
+	"MLL_DLL.h"
+
